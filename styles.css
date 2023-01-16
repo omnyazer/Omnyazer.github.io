@@ -38,6 +38,7 @@ nav li {
   cursor: pointer;
 
 }
+a { color: inherit }
 nav li span {
   position: absolute;
   top: -5px;
