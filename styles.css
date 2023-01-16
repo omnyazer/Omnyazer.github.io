@@ -31,14 +31,11 @@ nav ul {
   font-weight: 500;
   
 }
-
-a { color: inherit }
 nav li {
   position: relative;
   margin-left: 40px;
   font-size: 15px;
   cursor: pointer;
-  
 
 }
 nav li span {
